@@ -16,7 +16,7 @@ summary: A handful of friends and myself were tired of having to repeatedly writ
   <img class="ui image" src="../images/EM1.jpeg">
   <img class="ui image" src="../images/EM2.jpeg">
   <img class="ui image" src="../images/EM3.jpeg">
-  <img class="ui image" src="../images/EM4.jpeg">
+  <img class="ui image" src="../images/EM4.png">
 </div>
 
 This project was really one of the first times I had used code for a practical real world reason and it reignited my passion for software engineering and coding in general. It felt really good to able to see the merit of my labor and knowledge learned in class to able to solve even the smallest problems. This small project in particular was even more so amusing because I love Math and it allowed me to experiment and have fun with coding. Although this is a very low level simple project I thought it was worth discussing because its small projects like this that spark or respark interests in coding and remind me that ultimately I code to solve problems. Ofcourse projects can be elevated but the prospects that this concept present are what creates incredible programs in the modern world.
