@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/
+image: images/sudoku.jpeg
 title: Sudoku
 permalink: projects/sudoku
 # All dates must be YYYY-MM-DD format!
