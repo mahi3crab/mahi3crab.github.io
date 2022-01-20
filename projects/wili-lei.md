@@ -14,48 +14,6 @@ summary: When I was a student at Kamehameha Schools Kapalama Campus I was requir
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+One of my passions is making leis, which is something i discovered in my childhood through wtching my uncle make wili leis, or what others call haku leis, late at night until early morning on our dinningroom table. He would have all of his ferns, buds, and fauna layed out meticulously and i was his assistant. However I had never attempted to make my own lei until I was in highschool when I was required to. Learning any new skill in the beginning has its troughs, and lei making for me was no exception, but with guidance from seasoned lei makers and friends I quickly picked up the skill and now act as an assisstant to new lei makers! Lei giving is one of the coveted parts of Hawaian culture, so I take pride whenever I gift someone a lei that I was able to make myself and with materials that I went to find and gather. All of my mana is put into the product and the words to describe how gratifying it is is beyond my vocabulary. 
 
-To give you a flavor of the game, here is an excerpt from one run:
-
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
+Any lei maker starts by gathering and "cleaning" their materials. Then we typically use rafia or some sort of string / yarn to wrap the pattern of flowers and fern in a coil like fashion to fasten the lei until it reaches a length of about 21 - 23 inches. I also like to add a backing of fern so that the lei lays more gently on the persons head. To preserve the lei we spray the lei in a decent amount of water and wrap it up in damp newspaper or paper towel and keep it refrigerated inorder for it to remain fresh. 
