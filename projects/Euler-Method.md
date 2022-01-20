@@ -12,7 +12,7 @@ labels:
 summary: A handful of friends and myself were tired of having to repeatedly write out all of our work in order to get the final answer for Euler's Method in Calculus, so we created a small program to instantly get the calculated answer without the hassle!
 ---
 
-<div class="ui medium rounded images">
+<div class="ui small rounded images">
   <img class="ui image" src="../images/EM1.jpeg">
   <img class="ui image" src="../images/EM2.jpeg">
   <img class="ui image" src="../images/EM3.jpeg">
