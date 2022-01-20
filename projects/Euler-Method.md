@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/EM.jpeg
+image: images/EM1.jpeg
 title: Euler's Method
 permalink: projects/Euler-Method.md
 # All dates must be YYYY-MM-DD format!
