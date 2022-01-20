@@ -2,14 +2,14 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+title: Wili Lei
+permalink: projects/wili
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2018-08-20
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Lei
+  - Hawaii
+summary: When I was a student at Kamehameha Schools Kapalama Campus I was required to make several wili style lei for Punahou Carnival and Hoʻolaulea from my junior to senior year of highschool (2018 - 2020). 
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
