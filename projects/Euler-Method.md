@@ -26,7 +26,7 @@ For this project, I was the lead programmer who was responsible for programming 
 Here is some code that illustrates how we read values from the line sensors:
 
 ```java
-/ Euler's Method for Differential Equation
+// Euler's Method for Differential Equation
 import java.io.*;
 
 public class EulerMethod {
