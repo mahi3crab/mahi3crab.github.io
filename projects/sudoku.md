@@ -22,4 +22,4 @@ The best case scenario would be if it finds all the valid numbers on the first r
 
 I admittedly found this project gruelling and long but it helped me strengthen my understanding of recursion and the importance of program and algorithm analysis on a beginner conceptual level. 
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Source: <a href = "https://github.com/mahi3crab/Sudoku"><i class="large github icon"></i>mahi3crab/Sudoku</a>.
