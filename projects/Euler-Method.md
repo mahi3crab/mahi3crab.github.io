@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/EM.jpeg
 title: Euler's Method
-permalink: projects/micromouse
+permalink: projects/Euler-Method
 # All dates must be YYYY-MM-DD format!
 date: 2022-18-01
 labels:
