@@ -9,7 +9,7 @@ date: 2021
 labels:
   - Java
   - Calculus
-summary: A handfull of friends and myself were tired of having to repeatedly write out all of our work in order to get the final answer for Euler's Method in Calculus, so we created a small program to instantly get the calculated answer without the hassle!
+summary: A handful of friends and myself were tired of having to repeatedly write out all of our work in order to get the final answer for Euler's Method in Calculus, so we created a small program to instantly get the calculated answer without the hassle!
 ---
 
 <div class="ui small rounded images">
