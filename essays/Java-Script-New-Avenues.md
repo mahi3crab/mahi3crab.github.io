@@ -13,7 +13,7 @@ labels:
 
 <img class="ui medium right square floated image" src="../images/js.png">
 
-## New Beginnings 
+## New Avenues 
 Prior to taking ICS 212 I had learned JavaScript, HTML, CSS, and Java in middle school and my first semesters in University. Admittedly, I did not truly take my JavaScript knowledge into practice in my middle school and highschool years, but have found it incredibly refreshing to come back to it. This is a little embarrassing to say, but up until my first semester of college I didn’t even know that Java and JavaScript were two different languages. Now that I have relearned the basics of JavaScript and have had the opportunity to use Java in practice, I can say without any hesitation that JavaScript is superior!
 
 <img class="ui medium right square floated image" src="../images/captainamerica.jpeg">
