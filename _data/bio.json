@@ -59,12 +59,10 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "JavaScript,
+        "HTML",
+        "CSS"
       ]
     },
     {
@@ -72,90 +70,69 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Eclipse"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2024)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2020-08-24",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.65",
       "courses": [
+        "ICS 314: Software Engineering I",
+        "ICS 311: Algorithms",
+        "ICS 212: C/C++ Programming",
+        "ICS 241: Discrete Math II for CS",
+        "ICS 211: Data Structures",
+        "ICS 141: Discrete Math I for CS",
+        "ICS 111: Intro to Java"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Diamond Head Health Bar",
+      "position": "Barista & Cashier",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2020-06-05",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Working in the front of house as a cashire and working in the back of house as a barista making smoothies, juices, and acai bowls",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Practicing hygenic practices when handelling food items",
+        "Keeping track of inventory",
+        "Customer Service",
       ]
     },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Manoa Academic Merit Scholarship",
+      "date": "2020-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Scholarship is an automatic $2,000 scholarship per year for four years of undergraduate study for first-time degree seeking students. Students must have a 3.5 GPA, 1200 SAT or 23 ACT upon the time of application to UH Manoa."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "UMH Second Century Scholarship",
+      "date": "2020-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "The scholarship is available to Native Hawaiian students with demonstrated financial need pursuing both graduate and undergraduate credit work in any field of study on all 10 campuses of the University of Hawai'i System. "
+    }
+    {
+      "title": "Manoa Opportunity Grant",
+      "date": "2020-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Mānoa Opportunity Grant is available to students who demonstrate financial need based on information provided on your FAFSA. Due to limited funding, the maximum annual UHM award is $4,000 and is dependent upon tuition charged and enrollment status. For undergraduates, this grant is for first time Bachelor's degree seekers. You must be enrolled at least half-time in UH Mānoa courses (6 credits as an undergraduate or 4 credits as a graduate student) to receive the Mānoa Opportunity Grant. Graduate students enrolled in a 1 credit full-time course will not be considered for this grant. The grant will be prorated based upon your enrollment in UH Mānoa courses when not at full time."
+    }
+    {
+      "title": "Nā Hoʻokama ",
+      "date": "2020-Present",
+      "awarder": "Kamehameha Schools",
+      "summary": "A scholarship to nurture the dreams of Native Hawaiian learners to grow as ‘ōiwi leaders. NHAP is available to undergraduate and graduate students who demonstrate financial need. There are no additional eligibility requirements to be considered eligible for application review."
     }
   ],
   "references": [
