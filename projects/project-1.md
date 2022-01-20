@@ -2,15 +2,14 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
+title: Euler's Method
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2015-07-01
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Java
+  - Calculus
+summary: A handfull of friends and myself were tired of having to repeatedly write out all of our work in order to get the final answer for Euler's Method in Calculus, so we created a small program to instantly get the calculated answer without the hassle!
 ---
 
 <div class="ui small rounded images">
@@ -26,19 +25,50 @@ For this project, I was the lead programmer who was responsible for programming 
 
 Here is some code that illustrates how we read values from the line sensors:
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
+```java
+/ Euler's Method for Differential Equation
+import java.io.*;
+
+public class EulerMethod {
+   // Consider a differential equation
+   double func(double x, double y)
+   {
+       /* Put formula here (if you need to do something like 15x^2 - 3x^2y, 
+        * plug it in like this: ((15 * (x * x)) - ((3 * (x * x)) * y))
+        */
+       return ((15 * (x * x)) - ((3 * (x * x)) * y));
+   }
+
+   // Function for Euler formula
+   void euler(double x0, double y, double h, double x)
+   {
+       double temp = 0;
+
+       // Iterating till the point at which we need approximation
+       while (x0 < x) {
+           temp = y;
+           y = y + h * func(x0, y);
+           x0 = x0 + h;
+       }
+
+       System.out.println("Approximate solution at x = " + x + " is " + y);
+   }
+   
+   public static void main(String args[]) throws IOException
+   {
+       EulerMethod obj = new EulerMethod();
+       // Initial Values (Subject to change based on the problem)
+       double x0 = 0;
+       double y0 = 7;
+       double h = 0.001;
+
+       // Value of x at which we need approximation (subject to change based on the problem)
+       double x = 1;
+
+       obj.euler(x0, y0, h, x);
+   }
+}  return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
 }
 ```
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
-
 
 
