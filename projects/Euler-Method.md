@@ -5,7 +5,7 @@ image: images/EM.jpeg
 title: Euler's Method
 permalink: projects/Euler-Method
 # All dates must be YYYY-MM-DD format!
-date: 2021-
+date: 2021
 labels:
   - Java
   - Calculus
