@@ -109,6 +109,34 @@
       ]
     },
   ],
+  "volunteer": [
+    {
+      "organization": "Shinnyo-En",
+      "website": "",
+      "position": "Member",
+      "startDate": "2002-07-18",
+      "endDate": "Present",
+      "summary": "As a member I actively help with temple services, participate in neighborhood clean-ups, and volunteer in several positions at the Lantern FLoating Hawaii",
+      "highlights": [
+        "Helps guests at Lantern Floating Hawaii",
+        "Help educate and integrate Hawaiian culture and perspective",
+      ] 
+    },
+    {
+      "organization": "PANDA",
+      "website": "",
+      "position": "Member",
+      "startDate": "2020-09-01",
+      "endDate": "Present",
+      "summary": "As a member I attend weekly PANDA meetings and collaborate with fellow classmates to solve mock interview problems",
+      "highlights": [
+        "Practice coding & algorithm skills / knowledge",
+        "Peer collaboration",
+        "Mock interview question practice",
+        "Assisting lower classmen"
+      ] 
+    },
+  ],
   "awards": [
     {
       "title": "Manoa Academic Merit Scholarship",
