@@ -16,7 +16,7 @@ The novice stages of my software engineering experiences began in my 6th grade y
 
 How exactly I ended up choosing Computer Science as a major is still a mystery to me, but I’d like to think that I chose CS partially on a whim and partially because I saw programming as an enjoyable challenge which brought my love of STEM and problem solving together. As a child I always liked to pick apart the mechanics of systems, objects, or puzzles so it naturally made sense I would end up in a field such as this one. Moreover, in today’s world technology is our future, it dictates and assists several aspects in our everyday lives. By extension the possibilities that technology and the world of software engineering hold are endless and advancing at incredible speed, only adding to the excitement and my eagerness to become more proficient in my skills. 
 
-<img class="ui medium right square floated image" src="../images/coding.png">
+<img class="ui medium left square floated image" src="../images/coding.png">
 
 ## Trusting the process
 
