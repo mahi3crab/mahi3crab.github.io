@@ -8,8 +8,7 @@ labels:
   - Software Engineering
   - Reflection
 ---
-
-<img class="ui tiny right spaced image" src="../images/degree_difficulty.jpg">*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+<img class="ui medium right square floated image" src="../images/steps.png">
 
 ## Baby Steps
 
@@ -17,9 +16,13 @@ The novice stages of my software engineering experiences began in my 6th grade y
 
 How exactly I ended up choosing Computer Science as a major is still a mystery to me, but I’d like to think that I chose CS partially on a whim and partially because I saw programming as an enjoyable challenge which brought my love of STEM and problem solving together. As a child I always liked to pick apart the mechanics of systems, objects, or puzzles so it naturally made sense I would end up in a field such as this one. Moreover, in today’s world technology is our future, it dictates and assists several aspects in our everyday lives. By extension the possibilities that technology and the world of software engineering hold are endless and advancing at incredible speed, only adding to the excitement and my eagerness to become more proficient in my skills. 
 
+<img class="ui medium right square floated image" src="../images/coding.png">
+
 ## Trusting the process
 
 Looking back I wish I had taken up more interest in software engineering, especially in highschool, but life is about the journey not the destination so I’m trusting the process for now. I plan on making the best of my time in my ICS courses, including ICS 212, and achieving a higher understanding of software engineering. I look forward to looking at the different frameworks in depth and deepening my shallow understanding of this field. I’ve only scratched the surface, however I’m excited for my future prospects. 
+
+<img class="ui medium right square floated image" src="../images/palapalai.jpeg">
 
 ## IMUA
 
