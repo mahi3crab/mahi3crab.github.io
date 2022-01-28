@@ -40,11 +40,13 @@ When asking a question it will be the person's benefit to take into consideratio
 
 Another way to demonstrate good etiquette is by using a project mailing list as it allows for a richer group setting in order to more directly answer questions, the more minds the better. Moreover, it prevents the harassment of individual programmers and allows for future inquirers to easily look at your question and its answer rather than asking the same question again. 
 
-When formulating a question it also helps to make it easy to reply, provide accessible and standard formats of code or files, and provide minimal test cases. This provides more relevant information without detracting from the goal of the question. Another way to provide precision to the question is by describing the symptoms of a problem and providing its chronology rather than guessing random problems, we want to describe the goal not the steps. Finally following up with a thank you and update the post to indicate that it has been resolved. 
+When formulating a question it also helps to make it easy to reply, provide accessible and standard formats of code or files, and provide minimal test cases. This provides more relevant information without detracting from the goal of the question. Another way to provide precision to the question is by describing the symptoms of a problem and providing its chronology rather than guessing random problems, we want to describe the goal not the steps. Finally, following up with a thank you and update the post to indicate that it has been resolved. 
 
 ## Stupid Questions Exist… Like Seriously
-### “GOOD”
-<a href="https://stackoverflow.com/questions/387707/what-techniques-can-be-used-to-define-a-class-in-javascript-and-what-are-their">GOOD</a>
-
 ### “BAD”
-<a href="https://stackoverflow.com/questions/49331731/run-this-java-script-code-and-send-me-the-output">BAD</a>
+This is an example of a <a href="https://stackoverflow.com/questions/49331731/run-this-java-script-code-and-send-me-the-output">BAD</a> question, found on StackOverflow. The title reads: “Run this Java script code and send me the output”, quite the pompous tone of a title. It only gets worse because the authors description is one line which says, “Please I NEED some one to run this code and send me the output, because i am unable to run it” and a whole block of their code. This was most likely a user desperately trying to find an answer to their homework problem. Unfortunately StackOverflow is not the forum for these types of questions as they will be immediately overlooked due to the fact that the author does not indicate any sort of effort into self research or explicitly in what they are trying to achieve. 
+
+### “GOOD”
+On the other hand this is an example of a <a href="https://stackoverflow.com/questions/387707/what-techniques-can-be-used-to-define-a-class-in-javascript-and-what-are-their">GOOD</a> question, found on StackOverflow. The title is: “What techniques can be used to define a class in JavaScript, and what are their trade-offs?” and demonstrates that the author knows how to create an explicit and precise question. Moving to the description the author briefly discusses their prior knowledge of the subject, specifically asks for syntax and help and the reasoning behind it, and provides an article to show that they have done their research to answer their question before making a post. The author clearly indicates that they are competent and are deserving of a proper answer without coming across arrogant.
+
+
