@@ -42,8 +42,8 @@ Another way to demonstrate good etiquette is by using a project mailing list as 
 
 When formulating a question it also helps to make it easy to reply, provide accessible and standard formats of code or files, and provide minimal test cases. This provides more relevant information without detracting from the goal of the question. Another way to provide precision to the question is by describing the symptoms of a problem and providing its chronology rather than guessing random problems, we want to describe the goal not the steps. Finally following up with a thank you and update the post to indicate that it has been resolved. 
 
-##Stupid Questions Exist… Like Seriously
-###“GOOD”
+## Stupid Questions Exist… Like Seriously
+### “GOOD”
 	*
-###“BAD”
+### “BAD”
 	*
