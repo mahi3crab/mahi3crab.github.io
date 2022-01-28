@@ -44,6 +44,6 @@ When formulating a question it also helps to make it easy to reply, provide acce
 
 ## Stupid Questions Exist… Like Seriously
 ### “GOOD”
-	*
+
 ### “BAD”
-	*
+
