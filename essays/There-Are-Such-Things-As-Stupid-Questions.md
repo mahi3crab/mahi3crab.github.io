@@ -44,6 +44,7 @@ When formulating a question it also helps to make it easy to reply, provide acce
 
 ## Stupid Questions Exist… Like Seriously
 ### “GOOD”
+<a href="https://stackoverflow.com/questions/387707/what-techniques-can-be-used-to-define-a-class-in-javascript-and-what-are-their">GOOD</a>
 
 ### “BAD”
-
+<a href="https://stackoverflow.com/questions/49331731/run-this-java-script-code-and-send-me-the-output">BAD</a>
