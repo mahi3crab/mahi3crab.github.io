@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: title
+title: ʻUI loa i ka lei
 # All dates must be YYYY-MM-DD format!
 date: 2022-02-24
 labels:
