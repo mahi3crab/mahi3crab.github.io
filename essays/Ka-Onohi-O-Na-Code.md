@@ -10,7 +10,7 @@ labels:
   - Design
 ---
 
-<img class="ui large image" src="../images/IMG_5835.JPG">
+<img class="ui huge centered image" src="../images/IMG_5835.JPG">
 
 ## The Gem of the Code
 Much like in the beginning of my hula career, my beginnings in web / app development were very vague. I only ever saw the finished product of a person's blood, sweat, and tears through a simple performance or a web application. It wasn't until I started my journey in both of these paths that I realized the tumultuous process that would await me. So what is a design pattern anyways? Upon first glance I thought it quite literally was just the visual aspect of a web application; the font, the colors, the vibezzz. However, after further inspection and implementation I have come to learn that it pertains more to the design of the code and how it best fits a particular project. As Christopher Alexander puts it, a design pattern describes some sort of problem in our environment that occurs many times, but we can come up with a solution that can be used over and over, without doing it the same way twice. No two projects, people, or environments are the same or meet the same criteria, design patterns can be used to tackle each individual problem in the most efficient and suitable way. 
