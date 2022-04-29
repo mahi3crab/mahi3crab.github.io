@@ -25,7 +25,7 @@ The topic of design patterns parallels this concept perfectly. In our daily live
 
 ## Sharing a story
 
-<img class="ui medium right floated image" src="../images/IMG_5835.JPG">
+<img class="ui medium right floated image" src="../images/IMG_1044.JPG">
 
 The goal of hula is to share a story through movements, to portray the sentiments of the moʻolelo to the audience even if they don't understand a single word of the mele. Similarly design patterns help with the legibility of the code and shows the thought process of the coder, their calculated decisions reflected in their work. Because the purpose of design patterns is to provide a utilitarian and repeatable solution to issues, clarity of these two properties in code is of the utmost importance for the coder and future coders who may work on the same project or use it as inspiration. 
 
