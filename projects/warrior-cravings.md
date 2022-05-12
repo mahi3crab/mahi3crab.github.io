@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Screen Shot 2022-01-20 at 10.19.49 AM.png
+image: images/warrior-cravings.png
 title: Warrior Cravings
 permalink: projects/warrior-cravings
 # All dates must be YYYY-MM-DD format!
