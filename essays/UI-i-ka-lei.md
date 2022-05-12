@@ -11,7 +11,7 @@ labels:
   - CSS
 ---
 <img class="ui round image" src="{{ site.baseurl }}/images/Screen Shot 2022-05-12 at 9.45.13 AM.png">
-<img class="ui round image" src="{{ site.baseurl }}/Screen Shot 2022-05-12 at 9.45.51 AM.png">
+<img class="ui round image" src="{{ site.baseurl }}/images/Screen Shot 2022-05-12 at 9.45.51 AM.png">
 
 ## Pretty is the lei
 Any day that there is a lei, is a special day. A graduation, a birthday, a paʻina, or any occasion really, even for a Bat Mitzvah from your neighbor two blocks down and one block up from you. A lei shares its beauty, craftsmanship, and most importantly a story. Behind its beauty lies the creative minds and careful hands and a set of common rules for each style of lei, much like any website or app! For example wili leis specifically use a wrapping motion to secure the plant material in place for the lei, while haku lei use a braiding technique. Similarly different UI frameworks have a set of CSS and / or JavaScript functions which make web and app design easier, consistent, and pretty. Programmers use UI frameworks in order to simplify the development of layout, provide an attractive look / feel, and provide consistent results across browsers.  
